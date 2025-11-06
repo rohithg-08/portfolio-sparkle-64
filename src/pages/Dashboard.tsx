@@ -71,6 +71,7 @@ const Dashboard = () => {
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <div className="grid sm:grid-cols-2 gap-6 mb-8">
           <Card className="p-6 hover:shadow-lg transition-all border-2 hover:border-primary/20">
             <div className="flex items-center justify-between mb-2">
@@ -78,11 +79,16 @@ const Dashboard = () => {
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
         <div className="grid sm:grid-cols-3 gap-6 mb-8">
           <Card className="p-6 hover:shadow-lg transition-all border-2 hover:border-primary/20 sm:col-span-2 lg:row-span-2 h-full">
             <div className="flex items-center justify-between mb-4">
               <TrendingUp className="w-10 h-10 text-primary" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
